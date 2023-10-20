@@ -21,6 +21,7 @@ LexiMent Network (ext).ipynb: Versión “extendida” de Jupyter Notebook princ
 
 
 Referencias:
+
 Stella, M. (2020). Text-mining forma mentis networks reconstruct public perception of the STEM gender gap in social media. PeerJ Computer Science, 6, e295.
 
 Semeraro, A., Vilella, S., & Ruffo, G. (2021). PyPlutchik: Visualising and comparing emotion-annotated corpora. Plos one, 16(9), e0256503.
