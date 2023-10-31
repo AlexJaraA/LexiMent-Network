@@ -1,6 +1,8 @@
-# LexiMent-Network
+# LexiMent: Visualización de Redes de Asociaciones de Texto
 
-A continuación, se presenta el contenido generado en el proyecto
+LexiMent es un proyecto realizado en el contexto del festival sitio 23 por el equipo de Descentrando Desigualdades Géneros y Territorios. Fue diseñado por Alejandra Pérez y programado por el ingeniero Alex Jara utilizando el software libre Python. El proyecto involucra la reconstrucción de mentalidades (mindsets) que mapean la forma en que los individuos estructuran y perciben el conocimiento, especialmente en el léxico mental. Se basa en las publicaciones de Massimo Stella (2020) sobre redes de mentalidad usando el minado de texto con Forma Mentis –Textual Forma Mentis Networks– (TFMN) y el trabajo de Semeraro, Vilella & Ruffo (2021) con la librería Python PyPlutchik que implementa la visualización de Plutchik sobre un cuerpo de texto anotado en referencia al afecto (emotion annotated corpora). El objetivo del proyecto es visualizar redes de asociaciones de texto con atributos positivos, negativos o neutros en el contexto de la percepción de la desigualdad en conversaciones en redes sociales, como Twitter o Reddit.
+
+Para obtener más detalles sobre el proyecto y su funcionalidad, se presenta a continuación, el contenido generado en esta investigación.
 
 Archivos con "V2" en el nombre: Estos archivos contienen el léxico modificado después de la traducción manual de algunas palabras del léxico original en inglés al español. Esto se hizo para lograr una traducción más contextual.
 
