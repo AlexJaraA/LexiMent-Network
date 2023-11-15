@@ -9,6 +9,7 @@ Archivos con "V2" en el nombre: Estos archivos contienen el léxico modificado d
 Carpeta "Complementos": Contiene varios archivos relacionados con el proyecto, aunque no influyen directamente en la generación de gráficos. Aquí se encuentran archivos de texto que incluyen listas de palabras en inglés junto con sus emociones asociadas, en ambos formatos: el original y el utilizado en el proyecto. También, hay dos archivos .csv: uno contiene información de 'Palabra/Polaridad' y otro de 'Palabra/Tipo de palabra', extraídos de los Tweets utilizados en el proyecto.
 
 Archivos específicos:
+
 emotion_dictionary_functions.py: Este archivo contiene funciones auxiliares para generar el diccionario de palabras del proyecto. Lee "Spanish-NRC-Emolex-V2.txt," con 14,000+ palabras en inglés y sus emociones traducidas al español. Luego, crea "Dic-Spanish-NRC-V2.txt" con palabras en español y al menos una emoción relacionada.
 
 LexiMent.py: Este archivo alberga las funciones principales del proyecto, lo que permite usar el diccionario de palabras junto con sus emociones y obtener información variada. Esto incluye la identificación de emociones en una oración, la polaridad de una palabra o conjunto de palabras, y la creación de los archivos .csv mencionados previamente.
@@ -21,6 +22,7 @@ LexiMent Network.ipynb: Este es el Jupyter Notebook principal del proyecto, el c
 
 LexiMent Network (ext).ipynb: Versión “extendida” de Jupyter Notebook principal. Ofrece una visualización más detallada de cada etapa del proyecto. al incluir tanto los gráficos "finales" como los gráficos "intermedios".
 
+Reddit.ipynb: Contiene utilidades básicas para poder obtener comentarios de reddit usando la librería "praw" (a modo de complemento, ya que el estudio se centró en twitter).
 
 Referencias:
 
